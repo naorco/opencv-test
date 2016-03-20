@@ -1,0 +1,13 @@
+﻿Build started 02-Jan-16 5:10:23 PM.
+     1>Project "C:\Users\naor\Documents\Visual Studio 2013\Projects\OpenCVTest\OpenCVTest\OpenCVTest.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /ID:\opencv310\opencv\sources\build\install\x64\vc12\..\..\include /Zi /nologo /W3 /WX- /sdl /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\naor\Documents\Visual Studio 2013\Projects\OpenCVTest\x64\Debug\OpenCVTest.exe" /INCREMENTAL /NOLOGO /LIBPATH:D:\opencv310\opencv\sources\build\install\x64\vc12\lib opencv_calib3d310d.lib opencv_core310d.lib opencv_cudaarithm310d.lib opencv_cudabgsegm310d.lib opencv_cudafeatures2d310d.lib opencv_cudafilters310d.lib opencv_cudaimgproc310d.lib opencv_cudalegacy310d.lib opencv_cudaobjdetect310d.lib opencv_cudaoptflow310d.lib opencv_cudastereo310d.lib opencv_cudawarping310d.lib opencv_cudev310d.lib opencv_features2d310d.lib opencv_flann310d.lib opencv_highgui310d.lib opencv_imgcodecs310d.lib opencv_imgproc310d.lib opencv_ml310d.lib opencv_objdetect310d.lib opencv_photo310d.lib opencv_shape310d.lib opencv_stitching310d.lib opencv_superres310d.lib opencv_ts310d.lib opencv_video310d.lib opencv_videoio310d.lib opencv_videostab310d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\naor\Documents\Visual Studio 2013\Projects\OpenCVTest\x64\Debug\OpenCVTest.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\naor\Documents\Visual Studio 2013\Projects\OpenCVTest\x64\Debug\OpenCVTest.lib" /MACHINE:X64 x64\Debug\main.obj
+         OpenCVTest.vcxproj -> C:\Users\naor\Documents\Visual Studio 2013\Projects\OpenCVTest\x64\Debug\OpenCVTest.exe
+     1>Done Building Project "C:\Users\naor\Documents\Visual Studio 2013\Projects\OpenCVTest\OpenCVTest\OpenCVTest.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.02
